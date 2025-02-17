@@ -1,0 +1,37 @@
+/* Navbar Tasarımı */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    color: white;
+    padding: 15px 20px;
+    font-size: 18px;
+  }
+  
+  /* Başlık */
+  .navbar-title {
+    font-weight: bold;
+  }
+  
+  /* Linkler */
+  .navbar-links {
+    display: flex;
+    gap: 15px;
+  }
+  
+  /* Butonların görünümünü düzenleyelim */
+  .nav-link {
+    background: none;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #f8f9fa;
+  }
+  

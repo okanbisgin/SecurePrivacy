@@ -1,0 +1,6 @@
+@SecurePrivacyBackend_HostAddress = http://localhost:5294
+
+GET {{SecurePrivacyBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

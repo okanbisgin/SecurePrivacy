@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VJ8wBNlqq6FyohbgcKC18kGZYMqWtaMJFnPYv4BsbiQ=",
+  "Source": "SecurePrivacyBackend",
+  "BasePath": "_content/SecurePrivacyBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
